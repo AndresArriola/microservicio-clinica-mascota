@@ -1,0 +1,15 @@
+{
+  "name": "clinicaanimales",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "testClinicaBack"
+  },
+  "author": "AARRIOLA",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.0"
+  }
+}
